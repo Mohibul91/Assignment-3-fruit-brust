@@ -1,0 +1,72 @@
+*{font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans',
+    padding: 0px;
+    margin: 0px;
+}
+/* <!-- nav section start--> */
+nav{
+    
+    border-radius: 60px;
+   background-color: #F85559;
+   
+   height: 90px;
+   width: 1900px;
+   /* padding: 10px 100px; */
+   border: 10px black solid;
+   
+}
+.nav-all{
+    
+    display: flex;
+    justify-content: center;
+    
+  
+}
+.nav-list ul{
+display: flex;
+align-items: center;
+font-size: 20px;
+color: #FFF;
+gap: 44px;
+padding-top: 25px;
+
+}
+.nav-list ul li{
+    list-style: none;
+    align-items: center;
+    margin-bottom: 67px;
+    
+}
+
+
+
+
+
+.nav-search{
+    width: 300px;
+height: 56px;
+border-radius: 50px;
+background: #FFF;
+align-items: center;
+
+display: flex;
+
+padding: 0px 20px;
+margin: 14px 251px;
+display: block;
+
+
+}
+.nav-svg{
+    width: 54.517px;
+height: 60px;
+padding-left: 200px;
+}
+.nav-Fruit-Burst h1{
+    align-items: center;
+    font-size: 40px;
+    padding-right: 60px;
+}
+ 
+  /* navber end */
+
