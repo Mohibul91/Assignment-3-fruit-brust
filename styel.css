@@ -229,4 +229,50 @@ text-align: center;
 padding-top: 20px;
 }
 /* button end */
+.Fruits-Expert{
+  display: flex;
+  /* justify-content: space-around; */
+  margin-left: 100px;
+  margin-bottom: 100px;
+  
+  
+}
+.Fruits-Expert img{
+  background-color: #FFF;
+  position:relative;
+  margin-top: -250px;
+  /* margin-top: -300px; */
+  border-radius: 140px;
+  width: 140px;
+height: 140px;
+margin-left: 221px;
+gap: 20px;
+}
+.Fruits-Expert h1{
+  color: #FFF;
+  font-size: 30px;
+  margin-left: 194px;
+
+
+}
+.Fruits-Expert p{
+  color: #FFF;
+  margin-left: 242px;
+}
+.Fruits-Expert ul {
+  margin-left: 250px;
+}
+
+.Fruits-Expert ul i{
+  color:#F85559;
+  gap: 20px;
+  width: 24px;
+height: 24px;
+
+
+}
+
+
+
+
  
